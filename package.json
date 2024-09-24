@@ -2,11 +2,11 @@
   "name": "fotoflixx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Rajhalder123.github.io/Abc",
+  "homepage": "https://Rajhalder123.github.io/Photo",
   "description": "A photo gallery application using React",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rajhalder123/Abc.git"
+    "url": "https://github.com/Rajhalder123/Photo.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
